@@ -18,6 +18,13 @@ A robust Bash utility for recursive file comparison between two directories. It 
 
 ### 🏃 Quick Start
 ```bash
+    # Clone the repository
+    git clone https://github.com/andsyrovatko/s4k-admin-toolbox.git
+    cd s4k-admin-toolbox
+
+    # Grant execution rights to the scripts
+    cd tools/linux/compare-dirs && chmod +x compare-dirs.sh
+
     # Basic comparison (outputs diffs to terminal and compare-dirs.log)
     ./compare-dirs.sh /path/to/dir_a /path/to/dir_b
 

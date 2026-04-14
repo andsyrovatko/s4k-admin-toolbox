@@ -17,6 +17,13 @@ This script automates the activate / deactivate operations on Juniper JunOS devi
 
 ### 🏃 Quick Start
 ```bash
+    # Clone the repository
+    git clone https://github.com/andsyrovatko/s4k-admin-toolbox.git
+    cd s4k-admin-toolbox
+
+    # Grant execution rights to the scripts
+    cd tools/linux/juniper-ctrl/juniper-net-toggle && chmod +x juniper-net-toggle.sh
+
     # Deactivate a network (Interface)
     ./juniper-net-toggle.sh 10.10.1.1 192.168.50.0/30 OFF
 
