@@ -1,0 +1,4 @@
+# ip_manager.conf - Configuration for IPSET Management Script
+
+# --- CREDENTIALS ---
+JUNIPER_USER="your_ssh_user_here"
