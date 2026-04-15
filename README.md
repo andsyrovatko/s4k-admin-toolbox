@@ -5,7 +5,7 @@ A collection of battle-tested scripts and utilities for system administrators, D
 ---
 
 ### 📂 Navigation Table
-
+This toolbox contains a `mix` of `built-in scripts` and `links to my standalone specialized projects` for easier navigation.
 | OS | Stack | Utility Name | Description | Status |
 | :--- | :--- | :--- | :--- | :--- |
 | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) | ![Batch](https://img.shields.io/badge/-Batch-4D4D4D?style=flat-square) | [AnyDesk Reset](./tools/windows/apps-reset/anydesk-id-reseter.bat) | Terminate [AnyDesk](https://anydesk.com/en) & clear config files (`ID reset`) | ✅ Stable <br> 🧰&nbsp;Built-in&nbsp; |
