@@ -1,0 +1,6 @@
+# MAIN VARIABLES
+NET_FILE="./dnm-networks.txt"
+LOG_FILE="./dnm-networks.log"
+BASE_NET="172.30"
+START_OCTET=0
+END_OCTET=255
